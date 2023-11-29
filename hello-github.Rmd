@@ -6,6 +6,7 @@ output: github_document
 ---
 
 Cars plot
+
 ```{r cool-plot, fig.cap='A cool plot.', echo=FALSE}
 plot(cars, pch = 20)  # not really cool!
 ```
